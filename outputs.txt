@@ -1,0 +1,13 @@
+Outputs from diff models:
+
+1. DecisionTreeRegressor() 
+Mean:  4.388645982123318
+Standard deviation:  0.924945867727948
+
+2. LinearRegression()
+Mean:  5.030437102767305
+Standard deviation:  1.0607661158294832
+
+3. RandomForestRegressor()
+Mean:  3.2943328788175372
+Standard deviation:  0.6752859903667922
